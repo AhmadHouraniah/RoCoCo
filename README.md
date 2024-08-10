@@ -23,3 +23,9 @@ To run the script, use the following command:
 
 ```bash
 perl PCSTmult.pl <args>
+```
+### How to Cite
+
+Please use the following paper as a general citation for the RoCoCo Generator:
+
+Ugurdag HF, Keskin O, Tunc C, Temizkan F, Fici G, Dedeoglu S (2011) RoCoCo: row and column compression for highperformance multiplication on FPGAs. In: Proceedings of design & test symposium (EWDTS), Sevastopol, pp 98–101
