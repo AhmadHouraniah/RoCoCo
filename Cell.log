@@ -1,0 +1,5736 @@
+8x8
+
+FullAdder: 39
+HalfAdder: 7
+Width: 10
+
+--------------------------------
+
+8x8
+
+FullAdder: 39
+HalfAdder: 7
+Width: 10
+
+--------------------------------
+
+8x8
+
+FullAdder: 39
+HalfAdder: 7
+Width: 10
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+8x8
+
+FullAdder: 39
+HalfAdder: 7
+Width: 10
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+8x8
+
+FullAdder: 39
+HalfAdder: 7
+Width: 10
+
+--------------------------------
+
+16x16
+
+FullAdder: 201
+HalfAdder: 15
+Width: 24
+
+--------------------------------
+
+16x16
+
+FullAdder: 201
+HalfAdder: 15
+Width: 24
+
+--------------------------------
+
+16x16
+
+FullAdder: 201
+HalfAdder: 15
+Width: 24
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x8
+
+FullAdder: 26
+HalfAdder: 5
+Width: 9
+
+--------------------------------
+
+8x8
+
+FullAdder: 39
+HalfAdder: 7
+Width: 10
+
+--------------------------------
+
+6x8
+
+FullAdder: 26
+HalfAdder: 5
+Width: 9
+
+--------------------------------
+
+6x7
+
+FullAdder: 22
+HalfAdder: 5
+Width: 8
+
+--------------------------------
+
+7x8
+
+FullAdder: 33
+HalfAdder: 6
+Width: 9
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+7x8
+
+FullAdder: 33
+HalfAdder: 6
+Width: 9
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+42x128
+
+FullAdder: 5047
+HalfAdder: 41
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+3x8
+
+FullAdder: 6
+HalfAdder: 2
+Width: 8
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+32x64
+
+FullAdder: 1867
+HalfAdder: 31
+Width: 86
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+22x64
+
+FullAdder: 1246
+HalfAdder: 21
+Width: 77
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+16x32
+
+FullAdder: 425
+HalfAdder: 15
+Width: 40
+
+--------------------------------
+
+11x32
+
+FullAdder: 274
+HalfAdder: 10
+Width: 36
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+64x128
+
+FullAdder: 7821
+HalfAdder: 63
+Width: 180
+
+--------------------------------
+
+43x128
+
+FullAdder: 5174
+HalfAdder: 42
+Width: 160
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+6x16
+
+FullAdder: 58
+HalfAdder: 5
+Width: 17
+
+--------------------------------
+
+60x119
+
+FullAdder: 6794
+HalfAdder: 59
+Width: 168
+
+--------------------------------
+
+60x119
+
+FullAdder: 6794
+HalfAdder: 59
+Width: 168
+
+--------------------------------
+
+8x16
+
+FullAdder: 87
+HalfAdder: 7
+Width: 18
+
+--------------------------------
+
+4x8
+
+FullAdder: 13
+HalfAdder: 3
+Width: 8
+
+--------------------------------
+
+16x16
+
+FullAdder: 201
+HalfAdder: 15
+Width: 24
+
+--------------------------------
+
+8x8
+
+FullAdder: 39
+HalfAdder: 7
+Width: 10
+
+--------------------------------
+
+8x8
+
+FullAdder: 39
+HalfAdder: 7
+Width: 10
+
+--------------------------------
+
